@@ -1,7 +1,7 @@
 
 #  Recopilador de fechas de vencimiento de registros sanitarios
 
-Queremos un excel que nos vaya indicando cuántos días van faltando para que se renueve el registro sanitario.
+Requisitos de usuario: Queremos un excel que nos vaya indicando cuántos días van faltando para que se renueve el registro sanitario.
 
 # Features
 
